@@ -18,7 +18,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.03em;
-  
+
   color: var(--primary-text-color);
   background-color: var(--white-color);
 }
@@ -39,7 +39,7 @@ a {
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
-  
+
   color: #000000;
 }
 
@@ -112,7 +112,7 @@ a {
 .hero-button:hover,
 .hero-button:focus {
   color: var(--white-color);
-  background-color: #188CE8;
+  background-color: #188ce8;
 }
 
 /* benefits */
@@ -130,7 +130,7 @@ a {
 .benefits-paragraph {
   font-size: 14px;
   line-height: 1.71;
-  
+
   color: var(--secondary-text-color);
 }
 
@@ -173,7 +173,7 @@ a {
   font-size: 16px;
   line-height: 1.1875;
   text-align: center;
-  
+
   color: var(--secondary-text-color);
 }
 
@@ -191,7 +191,7 @@ a {
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
-  
+
   color: var(--white-color);
 }
 
@@ -199,7 +199,7 @@ a {
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
-  
+
   color: var(--white-color-opacity-60);
 }
 
@@ -217,9 +217,9 @@ a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625;
-  
+
   color: var(--primary-text-color);
-  background-color: #F5F4FA;
+  background-color: #f5f4fa;
 }
 
 .button.all-items {
@@ -246,6 +246,6 @@ a {
 .project-type {
   font-size: 16px;
   line-height: 1.875;
-  
+
   color: var(--secondary-text-color);
 }
