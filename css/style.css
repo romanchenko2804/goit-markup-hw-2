@@ -91,6 +91,7 @@ a {
   line-height: 1.37;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  text-align: center;
 
   color: var(--white-color);
 }
@@ -139,6 +140,7 @@ a {
 .work-title {
   font-size: 36px;
   line-height: 1.17;
+  text-align: center;
 }
 
 /* OUR TEAM */
@@ -150,6 +152,7 @@ a {
 .team-title {
   font-size: 36px;
   line-height: 1.17;
+  text-align: center;
 }
 
 /* добавил к "карте" ширину,высоту и внешний отступ для наглядности  */
@@ -164,11 +167,13 @@ a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.1875;
+  text-align: center;
 }
 
 .profession {
   font-size: 16px;
   line-height: 1.1875;
+  text-align: center;
   
   color: var(--secondary-text-color);
 }
