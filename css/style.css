@@ -109,11 +109,10 @@ a {
   cursor: pointer;
 }
 
-/* продублировал цвета для :hover и :focus */
 .hero-button:hover,
 .hero-button:focus {
   color: var(--white-color);
-  background-color: var(--accent-color);
+  background-color: #188CE8;
 }
 
 /* benefits */
