@@ -13,6 +13,8 @@
   --accent-color: #2196f3;
   --white-color: #ffffff;
   --white-color-opacity-60: rgba(255, 255, 255, 0.6);
+  --section-and-btn-bg-color: #F5F4FA;
+  --footer-bg-color: #2F303A;
 }
 
 body {
@@ -82,7 +84,7 @@ a {
 /* hero */
 
 .hero-section {
-  background-color: #2f303a;
+  background-color: var(--footer-bg-color);
 }
 
 .hero-title {
@@ -145,7 +147,7 @@ a {
 /* OUR TEAM */
 
 .team-section {
-  background-color: #f5f4fa;
+  background-color: var(--section-and-btn-bg-color);
 }
 
 .team-title {
@@ -219,7 +221,7 @@ a {
   line-height: 1.625;
 
   color: var(--primary-text-color);
-  background-color: #f5f4fa;
+  background-color: var(--section-and-btn-bg-color);
 }
 
 .button.all-items {
